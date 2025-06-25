@@ -9,4 +9,4 @@ This is a hands-on SOC lab project demonstrating the complete setup and integrat
 
 Tools are installed and integrated on **Kali Linux**, simulating real-world SOC activities.
 
-> 📁 Includes scripts, configurations, incident simulations, logs, and screenshots for portfolio or recruiter presentation.
+
